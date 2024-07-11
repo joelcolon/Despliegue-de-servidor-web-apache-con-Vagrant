@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/User/OneDrive/Escritorio/Tareas/electiva_2/practica6/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/User/OneDrive/Escritorio/Tareas/electiva_2/practica6","disabled":false,"__vagrantfile":true}}}
